@@ -1,0 +1,57 @@
+body{
+    margin: 0px;
+    font-family: 'Merienda One', cursive;
+}
+h1{
+    font-family: 'Modak', cursive;
+    font-size: 30px;
+}
+.namestyle{
+    color: orange;
+}
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding: 2%;
+
+}
+.half-width img{
+    width: 60%;
+}
+.top-header{
+    background-image: url(image/header-bg.png);
+    background-repeat: no-repeat;
+}
+.top-header{
+    height: 500px;
+}
+.link-button{
+    text-decoration: none;
+    background-color: palevioletred;
+    padding: 10px 20px;
+    border-radius: 20px;
+    color: white
+}
+.latest-work{
+    width: 20%;
+    float: left;
+    margin-left: 5%;
+    padding: 2%;
+}
+.bottom-header{
+    background-image: url(image/latest-work-bg.png);
+    background-repeat: no-repeat;
+    height: 500px;
+}
+.footer{
+    background-image: url(image/footer-bg.png);
+    height: 300px;
+}
+.message-box{
+    background-color: tomato;
+    
+} 
+.footer-box{
+    background-color: teal;
+}
